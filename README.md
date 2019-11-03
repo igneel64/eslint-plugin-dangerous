@@ -10,13 +10,13 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-dangerous`:
+Next, install `@igneel64/eslint-plugin-dangerous`:
 
 ```
-$ npm install eslint-plugin-dangerous --save-dev
+$ npm install @igneel64/eslint-plugin-dangerous --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-dangerous` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `@igneel64/eslint-plugin-dangerous` globally.
 
 ## Usage
 
