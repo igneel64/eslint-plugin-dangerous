@@ -25,7 +25,7 @@ Add `dangerous` to the plugins section of your `.eslintrc` configuration file. Y
 ```json
 {
     "plugins": [
-        "dangerous"
+        "@igneel64/dangerous"
     ]
 }
 ```
@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "dangerous/rule-name": 2
+        "@igneel64/dangerous/write-for-humans": 2
     }
 }
 ```

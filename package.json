@@ -1,6 +1,6 @@
 {
   "name": "@igneel64/eslint-plugin-dangerous",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This plugin is made to let you know of some of JavaScript's quirks that might lead to headaches later on in your program.",
   "keywords": [
     "eslint",
